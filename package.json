@@ -7,7 +7,7 @@
   "keywords": ["dsh", "dsh-plugin", "deepseek", "browser", "webview"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jyz48prsbr/dsh-web-link.git"
+    "url": "git+https://github.com/jyz48prsbr-netizen/dsh-web-link.git"
   },
   "exports": {
     ".": "./index.js",

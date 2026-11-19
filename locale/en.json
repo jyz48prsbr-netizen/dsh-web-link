@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "DeepSeek Web link",
+    "description": "Adds a left-sidebar entry that opens the native chat.deepseek.com web app in DSH's in-app browser panel.",
+    "detail": "docs/DETAIL.md"
+  }
+}
